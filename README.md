@@ -25,3 +25,7 @@ WIP
 | dist      | The app ready to publish (built with release config).                                          |
 | src       | App sources including html, css, assets(images, sounds, etc), and typescripts(include phaser). |
 | webpack   | Build config files with development or production.                                             |
+
+# demo
+
+[Raw result of npm run publish](https://gomachan7.github.io/phaser3-webpack4-typescript3-mobile-app-template/dist/)
